@@ -1,4 +1,4 @@
-                                                      👋 Hi, I'm Chirag Garg
+                                                 👋 Hi, I'm Chirag Garg
 
 💻 Aspiring Data Analyst | Data Science Student  
 📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  
