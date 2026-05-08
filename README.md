@@ -1,4 +1,4 @@
-                                                 👋 Hi, I'm Chirag Garg
+                                             👋 Hi, I'm Chirag Garg
 
 💻 Aspiring Data Analyst | Data Science Student  
 📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  
@@ -57,13 +57,6 @@ Problem Solving • Analytical Thinking • Communication • Teamwork • Leade
 
 - LinkedIn: https://www.linkedin.com/in/chirag-garg-b52b92262
 - GitHub: https://github.com/CodeWithChiragGarg/desktop-tutorial.git
-
-
-📊 GitHub Stats
-
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithChiragGarg&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithChiragGarg&layout=compact&theme=tokyonight)
 
 
 ⭐ Always learning, building and improving through real-world projects.
