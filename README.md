@@ -95,21 +95,8 @@ ML-powered attendance monitoring system that identifies suspicious attendance pa
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithChiragGarg&show_icons=true&theme=tokyonight)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithChiragGarg&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 🌈 My Learning Philosophy
+#   My Learning Philosophy
 
 > “I believe in learning by building real-world projects.  
 > Every project improves my analytical thinking, technical skills, and problem-solving ability.  
