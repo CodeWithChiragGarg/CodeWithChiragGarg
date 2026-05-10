@@ -96,7 +96,7 @@ ML-powered attendance monitoring system that identifies suspicious attendance pa
 ---
 
 
-#   My Learning Philosophy
+# 📈 My Learning Philosophy
 
 > “I believe in learning by building real-world projects.  
 > Every project improves my analytical thinking, technical skills, and problem-solving ability.  
