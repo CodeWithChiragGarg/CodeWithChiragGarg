@@ -53,33 +53,6 @@ HTML • CSS • React • FastAPI • Next.js
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧠 Brain Tumor Detection CDSS
-AI-powered brain MRI tumor detection and clinical decision support system using Deep Learning and medical imaging.
-
-## 🌾 Wheat Price Prediction System
-Machine Learning model for forecasting mandi wheat prices using historical agricultural market data.
-
-## 🌫️ Air Quality Analytics Dashboard
-Interactive dashboard for analyzing air pollution trends and AQI patterns across Indian cities.
-
-## 🎭 AI-Based Proxy Attendance Detection System
-ML-powered attendance monitoring system that identifies suspicious attendance patterns and proxy behavior using anomaly detection techniques like Isolation Forest.
-
----
-
-# 🧠 Soft Skills
-
-✔️ Problem Solving  
-✔️ Analytical Thinking  
-✔️ Communication  
-✔️ Teamwork  
-✔️ Leadership  
-✔️ Presentation Skills  
-✔️ Continuous Learning  
-
----
 
 # 🌐 Connect With Me
 
