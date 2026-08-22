@@ -1,91 +1,42 @@
 <div align="center">
 
-# 👋 Hi, I'm Chirag Garg
+# Chirag Garg
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Data+Science+Student;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
-</p>
+### Computer Science Engineer · Data Science · Machine Learning · Generative AI
 
-💻 Aspiring Data Analyst | Data Science Student  
-📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  
-🚀 Turning raw data into meaningful insights  
+Building end-to-end intelligent systems — from **data and ML models to APIs, explainability, and production-ready web applications**.
 
-<br>
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge)
-![](https://img.shields.io/badge/DataScience-0A66C2?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag_Garg-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-garg-b52b92262)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeWithChiragGarg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeWithChiragGarg)
 
 </div>
 
 ---
 
-# ✨ About Me
+## About
 
-- 🎓 B.Tech CSE student with specialization in Data Science at UPES
-- 🌱 Currently learning Python, SQL, Power BI, Tableau & Machine Learning
-- 🧠 Interested in Data Analytics, Artificial Intelligence & Dashboard Development
-- 🛠️ Passionate about building real-world data-driven projects
-- 🎯 Goal: Become industry-ready with strong analytical and problem-solving skills
-- ⚡ Fun fact: I enjoy solving business problems using data and AI
+I'm a **B.Tech Computer Science Engineering student specializing in Data Science at UPES**, focused on building practical software and AI systems.
 
----
+My interests lie at the intersection of:
 
-# 💻 Tech Skills
+- Machine Learning & Predictive Analytics
+- Generative AI & Retrieval-Augmented Generation
+- Backend Engineering & APIs
+- Data-driven product development
+- Explainable AI
 
-## 🖥️ Programming Languages
-Python • Java • SQL • R
-
-## 📊 Data Analytics & Visualization
-Pandas • NumPy • Power BI • Tableau • Excel • Matplotlib • Seaborn • Plotly
-
-## 🤖 Machine Learning
-Scikit-learn • Regression • Classification • Random Forest • Isolation Forest
-
-## 🛠️ Tools & Platforms
-Git • GitHub • VS Code • Google Colab • Jupyter Notebook
-
-## 🌐 Web & Backend
-HTML • CSS • React • FastAPI • Next.js
+Alongside development, I actively work on **Data Structures & Algorithms, SQL, and core Computer Science fundamentals**.
 
 ---
 
+## Technical Stack
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chirag-garg-b52b92262)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/CodeWithChiragGarg)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garg18069@gmail.com)
-
-</div>
-
----
-
-
-# 📈 My Learning Philosophy
-
-> “I believe in learning by building real-world projects.  
-> Every project improves my analytical thinking, technical skills, and problem-solving ability.  
-> My goal is to continuously grow as a Data Analyst and Machine Learning enthusiast.”
-
----
-
-<div align="center">
-
-## 🚀 Learning by Building
-
-⭐ Always learning, building and improving through real-world projects.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=CodeWithChiragGarg&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
+```text
+Languages        Python · Java · SQL · R
+ML / AI          XGBoost · Scikit-learn · SHAP · MLflow · Pandas · NumPy
+Generative AI    LLMs · RAG · Embeddings · Vector Search
+Backend          FastAPI · SQLAlchemy · REST APIs
+Frontend         Next.js · React · Tailwind CSS
+Databases        PostgreSQL · SQLite
+DevOps / Tools   Docker · Git · GitHub · VS Code · Jupyter
+Analytics        Power BI · Tableau · Matplotlib · Plotly
