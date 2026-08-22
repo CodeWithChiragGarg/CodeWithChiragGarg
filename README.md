@@ -1,89 +1,76 @@
 <div align="center">
 
-# 👋 Hi, I'm Chirag Garg
+# Hi, I'm Chirag Garg 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Data+Science+Student;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
-</p>
+### Computer Science (Data Science) Student | ML & AI Developer
 
-💻 Aspiring Data Analyst | Data Science Student  
-📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  
-🚀 Turning raw data into meaningful insights  
+Building practical **Machine Learning, Data Science, and AI applications** with a focus on solving real-world problems.
 
-<br>
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge)
-![](https://img.shields.io/badge/DataScience-0A66C2?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chirag-garg-b52b92262)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github)](https://github.com/CodeWithChiragGarg)
 
 </div>
 
 ---
 
-# ✨ About Me
+## About Me
 
-- 🎓 B.Tech CSE student with specialization in Data Science at UPES
-- 🌱 Currently learning Python, SQL, Power BI, Tableau & Machine Learning
-- 🧠 Interested in Data Analytics, Artificial Intelligence & Dashboard Development
-- 🛠️ Passionate about building real-world data-driven projects
-- 🎯 Goal: Become industry-ready with strong analytical and problem-solving skills
-- ⚡ Fun fact: I enjoy solving business problems using data and AI
-
----
-
-# 💻 Tech Skills
-
-## 🖥️ Programming Languages
-Python • Java • SQL • R
-
-## 📊 Data Analytics & Visualization
-Pandas • NumPy • Power BI • Tableau • Excel • Matplotlib • Seaborn • Plotly
-
-## 🤖 Machine Learning
-Scikit-learn • Regression • Classification • Random Forest • Isolation Forest
-
-## 🛠️ Tools & Platforms
-Git • GitHub • VS Code • Google Colab • Jupyter Notebook
-
-## 🌐 Web & Backend
-HTML • CSS • React • FastAPI • Next.js
+- 🎓 B.Tech CSE (Data Science) student at UPES
+- 💻 Interested in **Machine Learning, Generative AI & Software Development**
+- 🧠 Strengthening **DSA, SQL and Core Computer Science**
+- 🚀 Building end-to-end projects from **data → ML models → APIs → dashboards**
+- 🌱 Currently exploring **LLMs, RAG and modern AI applications**
 
 ---
 
+## Tech Stack
 
-# 🌐 Connect With Me
+**Languages:** Python • Java • SQL • R
+
+**Machine Learning & Data:**  
+Pandas • NumPy • Scikit-learn • XGBoost • MLflow • SHAP
+
+**Backend & Web:**  
+FastAPI • Next.js • React • SQLAlchemy
+
+**Analytics:**  
+Power BI • Tableau • Excel • Matplotlib • Plotly
+
+**Tools:**  
+Git • GitHub • Docker • VS Code • Jupyter
+
+---
+
+## Featured Project
+
+### 📊 Customer Lifetime Value Prediction System
+
+End-to-end customer intelligence platform for:
+
+- Customer Lifetime Value prediction
+- Churn-risk analysis
+- Customer segmentation
+- XGBoost + probabilistic CLV modelling
+- SHAP prediction explainability
+- Custom CSV prediction
+- Customer 360 analytics
+- FastAPI + Next.js dashboard
+
+🔗 **[View Project](https://github.com/CodeWithChiragGarg/Customer-Lifetime-Value-Prediction-System)**
+
+---
+
+## Currently Building
+
+🤖 **GenAI / RAG Document Intelligence System**
+
+Exploring document retrieval, embeddings, vector search, LLMs, citations and RAG evaluation.
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chirag-garg-b52b92262)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/CodeWithChiragGarg)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garg18069@gmail.com)
-
-</div>
-
----
-
-
-# 📈 My Learning Philosophy
-
-> “I believe in learning by building real-world projects.  
-> Every project improves my analytical thinking, technical skills, and problem-solving ability.  
-> My goal is to continuously grow as a Data Analyst and Machine Learning enthusiast.”
-
----
-
-<div align="center">
-
-## 🚀 Learning by Building
-
-⭐ Always learning, building and improving through real-world projects.
-
-<br>
+### Build. Learn. Improve.
 
 <img src="https://komarev.com/ghpvc/?username=CodeWithChiragGarg&label=Profile%20Views&color=0e75b6&style=flat" />
 
